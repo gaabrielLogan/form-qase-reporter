@@ -1,4 +1,6 @@
-import cypress from 'cypress';
+// cypress.config.js
+
+const cypress = require('cypress');
 
 
 module.exports = cypress.defineConfig({
@@ -13,10 +15,10 @@ module.exports = cypress.defineConfig({
 
       testops: {
         api: {
-          token: '4e51dc4a3be50f7d16e105fa84a0c85fc820b29b4c46eb3b3f26edb6c5407a32',
+          token: '1cb2e6bb7f99f162873bbdcdaa9b46b731e29deb6fa723f498b64dc2b8449e89',
         },
 
-        project: 'FORM',
+        project: 'QE',
         uploadAttachments: true,
 
         run: {
@@ -33,6 +35,6 @@ module.exports = cypress.defineConfig({
   },
   video: false,
   e2e: {
-  
+    },
   },
-});
+);
