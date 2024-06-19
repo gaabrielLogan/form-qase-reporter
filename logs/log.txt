@@ -1,0 +1,20 @@
+[2024-06-18T19:50:03.888Z] [DEBUG] qase: Config: {"id":"default","debug":true,"testops":{"api":{"token":"1cb2e6bb7f99f162873bbdcdaa9b46b731e29deb6fa723f498b64dc2b8449e89"},"project":"QE","uploadAttachments":true,"run":{"complete":true},"plan":{},"batch":{}},"frameworkPackage":"cypress","frameworkName":"cypress","reporterName":"cypress-qase-reporter","mode":"testops","report":{"connections":{"local":{}}}}
+[2024-06-18T19:50:04.018Z] [DEBUG] qase: Starting test run
+[2024-06-18T19:50:04.018Z] [DEBUG] qase: Create test run
+[2024-06-18T19:50:04.341Z] [DEBUG] qase: Test run created: 55
+[2024-06-18T19:50:06.052Z] [INFO] qase: [32mTest Preenchimento do formulario com sucesso (Qase ID: 1) passed[39m
+[2024-06-18T19:50:06.052Z] [DEBUG] qase: Adding test result: {"attachments":[],"author":null,"fields":{},"message":null,"muted":false,"params":{},"relations":{"suite":{"data":[{"title":"Formulário","public_id":null}]}},"run_id":null,"signature":"","steps":[],"id":"r3","execution":{"status":"passed","start_time":null,"end_time":null,"duration":741,"stacktrace":null,"thread":null},"testops_id":[1],"title":"Preenchimento do formulario com sucesso (Qase ID: 1)"}
+[2024-06-18T19:50:06.063Z] [DEBUG] qase: Publishing test run results
+[2024-06-18T19:50:06.245Z] [DEBUG] qase: Results sent to Qase: 1
+[2024-06-18T19:50:06.391Z] [INFO] qase: [32mRun 55 completed[39m
+[2024-06-18T19:50:06.392Z] [INFO] qase: [34mTest run link: https://app.qase.io/run/QE/dashboard/55[39m
+[2024-06-18T19:54:48.004Z] [DEBUG] qase: Config: {"id":"default","debug":true,"testops":{"api":{"token":"1cb2e6bb7f99f162873bbdcdaa9b46b731e29deb6fa723f498b64dc2b8449e89"},"project":"QE","uploadAttachments":true,"run":{"complete":true},"plan":{},"batch":{}},"frameworkPackage":"cypress","frameworkName":"cypress","reporterName":"cypress-qase-reporter","mode":"testops","report":{"connections":{"local":{}}}}
+[2024-06-18T19:54:48.099Z] [DEBUG] qase: Starting test run
+[2024-06-18T19:54:48.099Z] [DEBUG] qase: Create test run
+[2024-06-18T19:54:48.433Z] [DEBUG] qase: Test run created: 56
+[2024-06-18T19:54:49.768Z] [INFO] qase: [32mTest Preenchimento do formulario com sucesso (Qase ID: 1) passed[39m
+[2024-06-18T19:54:49.768Z] [DEBUG] qase: Adding test result: {"attachments":[],"author":null,"fields":{},"message":null,"muted":false,"params":{},"relations":{"suite":{"data":[{"title":"Formulário","public_id":null}]}},"run_id":null,"signature":"","steps":[],"id":"r3","execution":{"status":"passed","start_time":null,"end_time":null,"duration":615,"stacktrace":null,"thread":null},"testops_id":[1],"title":"Preenchimento do formulario com sucesso (Qase ID: 1)"}
+[2024-06-18T19:54:49.780Z] [DEBUG] qase: Publishing test run results
+[2024-06-18T19:54:49.958Z] [DEBUG] qase: Results sent to Qase: 1
+[2024-06-18T19:54:50.112Z] [INFO] qase: [32mRun 56 completed[39m
+[2024-06-18T19:54:50.114Z] [INFO] qase: [34mTest run link: https://app.qase.io/run/QE/dashboard/56[39m

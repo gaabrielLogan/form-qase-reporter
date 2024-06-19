@@ -13,6 +13,7 @@
     "cypress": "^13.11.0"
   },
   "devDependencies": {
+    "cypress-multi-reporters": "^1.6.4",
     "cypress-qase-reporter": "^2.0.2"
   }
 }
